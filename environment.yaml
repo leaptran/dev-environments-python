@@ -1,0 +1,26 @@
+name: cvenv
+dependencies:
+  - hdf5
+  - Flask
+  - jinja2
+  - "conda-forge::Flask-SeaSurf"
+  - requests
+  - "conda-forge::flask-dance"
+  - gunicorn
+  - gevent
+  - sqlalchemy
+  - flask-sqlalchemy
+  - sqlalchemy-utils
+  - pymysql
+  - python-jose
+  - blinker
+  - cryptography
+  - bokeh
+  - pytables
+  - "conda-forge::prometheus_flask_exporter"
+  - sentry-sdk
+  - blinker
+  - jsonschema
+  - werkzeug
+  - matplotlib
+  - plotly
