@@ -7,4 +7,5 @@ Adds Miniconda (python 3.9) and our various commonly used python libraries
 	Use on other platforms at your own risk.
 
 Once container is running, execute `conda activate cvenv` (leaptran open source projects)
-or `conda activate base` for a minimal/clean python3.9 environment
+or `conda activate base` for a clean python3.9 environment
+
